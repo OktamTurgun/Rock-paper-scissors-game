@@ -20,4 +20,4 @@ A simple browser-based Rock-Paper-Scissors game built with HTML, CSS, and JavaSc
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/OktamTurgun/Rock-Paper-Scissors-game.git
+   git clone https://github.com/OktamTurgun/Rock-paper-scissors-game.git
