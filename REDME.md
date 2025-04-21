@@ -3,7 +3,7 @@
 A simple browser-based Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
 
 ## 🔗 Demo
-👉 [Play the Game](https://oktamturgun.github.io/Rock-Paper-Scissors-game/)
+👉 [Play the Game](https://github.com/OktamTurgun/Rock-paper-scissors-game)
 
 ## 📦 Features
 - Play against the computer
