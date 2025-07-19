@@ -75,4 +75,4 @@ Feel free to contribute to this project by:
 
 ## 📞 Contact
 - GitHub: [@OktamTurgun](https://github.com/OktamTurgun)
-- Project Link: [Rock-Paper-Scissors Game](https://github.com/OktamTurgun/Rock-Paper-Scissors-game) 
+- Project Link: [Rock-Paper-Scissors Game](https://github.com/OktamTurgun/Rock-Paper-Scissors-game)
